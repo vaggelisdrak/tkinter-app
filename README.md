@@ -1,1 +1,1 @@
-# tkinter-app
+# tkinter- desktop application
